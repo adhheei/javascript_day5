@@ -1,4 +1,4 @@
-# 🚀 JavaScript Day 5
+# 🚀 JavaScript Day5
 
 
 
